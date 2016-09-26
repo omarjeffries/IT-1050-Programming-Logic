@@ -1,0 +1,9 @@
+C:\Users\Omar Jeffries\Desktop\Lab-2\LabTwo\bin\Debug\LabTwo.exe.config
+C:\Users\s00811520\Desktop\Lab-2\LabTwo\bin\Debug\LabTwo.exe.config
+C:\Users\s00811520\Desktop\Lab-2\LabTwo\obj\Debug\LabTwo.csprojResolveAssemblyReference.cache
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-02\LabTwo\bin\Debug\LabTwo.exe.config
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-02\LabTwo\bin\Debug\LabTwo.exe
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-02\LabTwo\bin\Debug\LabTwo.pdb
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-02\LabTwo\obj\Debug\LabTwo.csprojResolveAssemblyReference.cache
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-02\LabTwo\obj\Debug\LabTwo.exe
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-02\LabTwo\obj\Debug\LabTwo.pdb

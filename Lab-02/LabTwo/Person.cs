@@ -25,16 +25,13 @@
             System.Console.WriteLine(this.Age);
         }
       
-
         //public void AskUserForNameAndAge()
         //{
-        //    System.Console.Write("First Name: ");
+        //    System.Console.Write("Enter Your First Name: ");
         //    FirstName = System.Console.ReadLine();
-
-        //    System.Console.Write("Last Name: ");
+        //    System.Console.Write("Enter Your Last Name: ");
         //    LastName = System.Console.ReadLine();
-
-        //    System.Console.Write("Age: ");
+        //    System.Console.Write("Enter Your Age: ");
         //    Age = int.Parse(System.Console.ReadLine());
         //}
 

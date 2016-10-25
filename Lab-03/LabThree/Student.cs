@@ -17,9 +17,15 @@
             this.Grade = 0;
         }
 
-        public int SetGrade(int thisGrade)
+        public void SetGrade(int z)
         {
-            int output = this.Grade; 
+            this.Grade = z; 
+        }
+
+        public void Print()
+        {
+            System.Console.WriteLine(Name + " = Grade: " + Grade + ", Teacher: " + Teacher);
+            System.Console.ReadKey();
         }
 
     }

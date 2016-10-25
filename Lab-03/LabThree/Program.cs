@@ -11,7 +11,23 @@
             Student Melissa = new Student("Melissa", "Mike");
             Student Matt = new Student("Matt", "Mike");
 
-            int JaneGrade = John.SetStudentGrade(95);
+            John.SetStudentGrade(Jane, 95);
+            Jane.Print();
+            John.SetStudentGrade(Joe, 85);
+            Joe.Print();
+            Mike.SetStudentGrade(Melissa, 90);
+            Melissa.Print();
+            Mike.SetStudentGrade(Matt, 92);
+            Matt.Print();
+
+            System.Console.WriteLine();
+
+            John.Print();
+            Mike.Print();
+
+            System.Console.WriteLine();
+            System.Console.WriteLine("Press any key to continue...");
+            System.Console.ReadKey();
         }
     }
 }

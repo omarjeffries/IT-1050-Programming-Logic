@@ -1,1 +1,7 @@
 C:\Users\Omar Jeffries\Desktop\Lab-03\LabThree\bin\Debug\LabThree.exe.config
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-03\LabThree\bin\Debug\LabThree.exe.config
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-03\LabThree\obj\Debug\LabThree.csprojResolveAssemblyReference.cache
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-03\LabThree\bin\Debug\LabThree.exe
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-03\LabThree\bin\Debug\LabThree.pdb
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-03\LabThree\obj\Debug\LabThree.exe
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-03\LabThree\obj\Debug\LabThree.pdb

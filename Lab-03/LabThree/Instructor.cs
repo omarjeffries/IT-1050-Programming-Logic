@@ -11,10 +11,15 @@
             this.CourseName = thierCourseName;
         }
 
-        public int SetStudentGrade(int Grade);
+        public void SetStudentGrade(Student student, int grade)
         {
-            return Grade = SetStudentGrade;
+            student.SetGrade(grade);
         }
 
+        public void Print()
+        {
+            System.Console.WriteLine(Name + ": Teaching = " + CourseName);
+        }
     }
 }
+

@@ -1,0 +1,9 @@
+C:\Users\Omar Jeffries\Desktop\Lab-05\Lab-05\bin\Debug\Lab-05.exe.config
+C:\Users\Omar Jeffries\Desktop\Lab-05\Lab-05\bin\Debug\Lab-05.exe
+C:\Users\Omar Jeffries\Desktop\Lab-05\Lab-05\bin\Debug\Lab-05.pdb
+C:\Users\Omar Jeffries\Desktop\Lab-05\Lab-05\obj\Debug\Lab-05.csprojResolveAssemblyReference.cache
+C:\Users\Omar Jeffries\Desktop\Lab-05\Lab-05\obj\Debug\Lab-05.exe
+C:\Users\Omar Jeffries\Desktop\Lab-05\Lab-05\obj\Debug\Lab-05.pdb
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-05\Lab-05\bin\Debug\Lab-05.exe.config
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-05\Lab-05\obj\Debug\Lab-05.exe
+C:\Users\Omar Jeffries\Desktop\IT-1050-Programming-Logic\Lab-05\Lab-05\obj\Debug\Lab-05.pdb
